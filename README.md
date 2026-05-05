@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Jahanzaib Ghafoor</h1>
+<h3 align="center">Frontend Developer | React & React Native</h3>
+
 # 💫 About Me:
 🚀 I’m currently working on a React Native e-commerce project<br>📱 I’m currently learning React Native CLI and improving my mobile development skills<br>💻 I build responsive web and mobile applications using React and modern frontend tools<br>🎨 I focus on clean UI, performance, and real-world project experience<br>📈 I’m continuously learning and aiming to grow as a professional frontend developer ✨
 
