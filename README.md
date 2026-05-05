@@ -2,7 +2,12 @@
 <h3 align="center">Frontend Developer | React & React Native</h3>
 
 # 💫 About Me:
-🚀 I’m currently working on a React Native e-commerce project<br>📱 I’m currently learning React Native CLI and improving my mobile development skills<br>💻 I build responsive web and mobile applications using React and modern frontend tools<br>🎨 I focus on clean UI, performance, and real-world project experience<br>📈 I’m continuously learning and aiming to grow as a professional frontend developer ✨
+🚀 I’m currently building a React Native e-commerce application with a focus on real-world functionality<br>
+📱 I’m learning React Native CLI and strengthening my mobile app development skills<br>
+💻 I develop responsive web and mobile applications using React and modern frontend technologies<br>
+🎨 I focus on clean UI design, performance optimization, and scalable code practices<br>
+📈 I’m continuously learning and improving through hands-on projects and real-world experience<br>
+🏢 Currently working as an intern at Synergic Professionals Limited, gaining industry-level experience ✨
 
 
 # 💻 Tech Stack:
